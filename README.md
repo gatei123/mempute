@@ -1,5 +1,6 @@
 # mempute
 machine learning tool easy, efficiency, powerfull than deep learnnig
+
 windows
   stock example
     lernning

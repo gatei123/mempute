@@ -12,3 +12,6 @@ windows
   
 linux 
   > python pytest.py 0 f
+  
+pcisqn.exe - client command line monitoring tool
+memonode.exe - mempute server
